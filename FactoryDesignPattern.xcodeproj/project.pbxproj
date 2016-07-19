@@ -16,6 +16,24 @@
 		CF00D3521D3E8DF1009193CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF00D3501D3E8DF1009193CD /* LaunchScreen.storyboard */; };
 		CF00D35D1D3E8DF1009193CD /* FactoryDesignPatternTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D35C1D3E8DF1009193CD /* FactoryDesignPatternTests.m */; };
 		CF00D3681D3E8DF2009193CD /* FactoryDesignPatternUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D3671D3E8DF2009193CD /* FactoryDesignPatternUITests.m */; };
+		CF00D40B1D3EAAF1009193CD /* Keyboard.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4001D3EAAF1009193CD /* Keyboard.m */; };
+		CF00D40C1D3EAAF1009193CD /* Keyboard.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4001D3EAAF1009193CD /* Keyboard.m */; };
+		CF00D40D1D3EAAF1009193CD /* Keyboard.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4001D3EAAF1009193CD /* Keyboard.m */; };
+		CF00D40E1D3EAAF1009193CD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4011D3EAAF1009193CD /* main.m */; };
+		CF00D40F1D3EAAF1009193CD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4011D3EAAF1009193CD /* main.m */; };
+		CF00D4101D3EAAF1009193CD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4011D3EAAF1009193CD /* main.m */; };
+		CF00D4111D3EAAF1009193CD /* Mouse.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4031D3EAAF1009193CD /* Mouse.m */; };
+		CF00D4121D3EAAF1009193CD /* Mouse.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4031D3EAAF1009193CD /* Mouse.m */; };
+		CF00D4131D3EAAF1009193CD /* Mouse.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4031D3EAAF1009193CD /* Mouse.m */; };
+		CF00D4141D3EAAF1009193CD /* Product.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4051D3EAAF1009193CD /* Product.m */; };
+		CF00D4151D3EAAF1009193CD /* Product.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4051D3EAAF1009193CD /* Product.m */; };
+		CF00D4161D3EAAF1009193CD /* Product.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4051D3EAAF1009193CD /* Product.m */; };
+		CF00D4171D3EAAF1009193CD /* ProductFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4071D3EAAF1009193CD /* ProductFactory.m */; };
+		CF00D4181D3EAAF1009193CD /* ProductFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4071D3EAAF1009193CD /* ProductFactory.m */; };
+		CF00D4191D3EAAF1009193CD /* ProductFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D4071D3EAAF1009193CD /* ProductFactory.m */; };
+		CF00D41A1D3EAAF1009193CD /* ShoppingCart.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D40A1D3EAAF1009193CD /* ShoppingCart.m */; };
+		CF00D41B1D3EAAF1009193CD /* ShoppingCart.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D40A1D3EAAF1009193CD /* ShoppingCart.m */; };
+		CF00D41C1D3EAAF1009193CD /* ShoppingCart.m in Sources */ = {isa = PBXBuildFile; fileRef = CF00D40A1D3EAAF1009193CD /* ShoppingCart.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +71,18 @@
 		CF00D3631D3E8DF2009193CD /* FactoryDesignPatternUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FactoryDesignPatternUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF00D3671D3E8DF2009193CD /* FactoryDesignPatternUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FactoryDesignPatternUITests.m; sourceTree = "<group>"; };
 		CF00D3691D3E8DF2009193CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF00D3FF1D3EAAF1009193CD /* Keyboard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Keyboard.h; sourceTree = "<group>"; };
+		CF00D4001D3EAAF1009193CD /* Keyboard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Keyboard.m; sourceTree = "<group>"; };
+		CF00D4011D3EAAF1009193CD /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CF00D4021D3EAAF1009193CD /* Mouse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mouse.h; sourceTree = "<group>"; };
+		CF00D4031D3EAAF1009193CD /* Mouse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Mouse.m; sourceTree = "<group>"; };
+		CF00D4041D3EAAF1009193CD /* Product.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Product.h; sourceTree = "<group>"; };
+		CF00D4051D3EAAF1009193CD /* Product.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Product.m; sourceTree = "<group>"; };
+		CF00D4061D3EAAF1009193CD /* ProductFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProductFactory.h; sourceTree = "<group>"; };
+		CF00D4071D3EAAF1009193CD /* ProductFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProductFactory.m; sourceTree = "<group>"; };
+		CF00D4081D3EAAF1009193CD /* ProductInterface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProductInterface.h; sourceTree = "<group>"; };
+		CF00D4091D3EAAF1009193CD /* ShoppingCart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShoppingCart.h; sourceTree = "<group>"; };
+		CF00D40A1D3EAAF1009193CD /* ShoppingCart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShoppingCart.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +133,7 @@
 		CF00D33E1D3E8DF1009193CD /* FactoryDesignPattern */ = {
 			isa = PBXGroup;
 			children = (
+				CF00D3FE1D3EAAF1009193CD /* MainFiles */,
 				CF00D3421D3E8DF1009193CD /* AppDelegate.h */,
 				CF00D3431D3E8DF1009193CD /* AppDelegate.m */,
 				CF00D3451D3E8DF1009193CD /* ViewController.h */,
@@ -141,6 +172,25 @@
 				CF00D3691D3E8DF2009193CD /* Info.plist */,
 			);
 			path = FactoryDesignPatternUITests;
+			sourceTree = "<group>";
+		};
+		CF00D3FE1D3EAAF1009193CD /* MainFiles */ = {
+			isa = PBXGroup;
+			children = (
+				CF00D3FF1D3EAAF1009193CD /* Keyboard.h */,
+				CF00D4001D3EAAF1009193CD /* Keyboard.m */,
+				CF00D4011D3EAAF1009193CD /* main.m */,
+				CF00D4021D3EAAF1009193CD /* Mouse.h */,
+				CF00D4031D3EAAF1009193CD /* Mouse.m */,
+				CF00D4041D3EAAF1009193CD /* Product.h */,
+				CF00D4051D3EAAF1009193CD /* Product.m */,
+				CF00D4061D3EAAF1009193CD /* ProductFactory.h */,
+				CF00D4071D3EAAF1009193CD /* ProductFactory.m */,
+				CF00D4081D3EAAF1009193CD /* ProductInterface.h */,
+				CF00D4091D3EAAF1009193CD /* ShoppingCart.h */,
+				CF00D40A1D3EAAF1009193CD /* ShoppingCart.m */,
+			);
+			path = MainFiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -276,10 +326,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF00D4171D3EAAF1009193CD /* ProductFactory.m in Sources */,
 				CF00D3471D3E8DF1009193CD /* ViewController.m in Sources */,
+				CF00D4111D3EAAF1009193CD /* Mouse.m in Sources */,
 				CF00D3441D3E8DF1009193CD /* AppDelegate.m in Sources */,
 				CF00D3411D3E8DF1009193CD /* main.m in Sources */,
 				CF00D34D1D3E8DF1009193CD /* FactoryDesignPattern.xcdatamodeld in Sources */,
+				CF00D4141D3EAAF1009193CD /* Product.m in Sources */,
+				CF00D40E1D3EAAF1009193CD /* main.m in Sources */,
+				CF00D40B1D3EAAF1009193CD /* Keyboard.m in Sources */,
+				CF00D41A1D3EAAF1009193CD /* ShoppingCart.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,7 +343,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF00D4181D3EAAF1009193CD /* ProductFactory.m in Sources */,
+				CF00D40C1D3EAAF1009193CD /* Keyboard.m in Sources */,
+				CF00D41B1D3EAAF1009193CD /* ShoppingCart.m in Sources */,
+				CF00D4151D3EAAF1009193CD /* Product.m in Sources */,
+				CF00D40F1D3EAAF1009193CD /* main.m in Sources */,
 				CF00D35D1D3E8DF1009193CD /* FactoryDesignPatternTests.m in Sources */,
+				CF00D4121D3EAAF1009193CD /* Mouse.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -295,7 +357,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF00D4191D3EAAF1009193CD /* ProductFactory.m in Sources */,
+				CF00D40D1D3EAAF1009193CD /* Keyboard.m in Sources */,
+				CF00D41C1D3EAAF1009193CD /* ShoppingCart.m in Sources */,
+				CF00D4161D3EAAF1009193CD /* Product.m in Sources */,
+				CF00D4101D3EAAF1009193CD /* main.m in Sources */,
 				CF00D3681D3E8DF2009193CD /* FactoryDesignPatternUITests.m in Sources */,
+				CF00D4131D3EAAF1009193CD /* Mouse.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -505,6 +573,7 @@
 				CF00D36E1D3E8DF2009193CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF00D36F1D3E8DF2009193CD /* Build configuration list for PBXNativeTarget "FactoryDesignPatternTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +582,7 @@
 				CF00D3711D3E8DF2009193CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF00D3721D3E8DF2009193CD /* Build configuration list for PBXNativeTarget "FactoryDesignPatternUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +591,7 @@
 				CF00D3741D3E8DF2009193CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
